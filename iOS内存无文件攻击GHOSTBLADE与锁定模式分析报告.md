@@ -432,4 +432,4 @@ iVerify 的公开分析认为，已观察到的 DarkSword 链在锁定模式下�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190

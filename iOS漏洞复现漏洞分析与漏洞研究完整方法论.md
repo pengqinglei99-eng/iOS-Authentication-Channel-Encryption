@@ -1141,4 +1141,4 @@ iOS 漏洞研究是一项证据驱动的工程工作。高质量成果应能回�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190

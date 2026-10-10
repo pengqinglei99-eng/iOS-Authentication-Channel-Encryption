@@ -824,4 +824,4 @@ iOS 内存损坏漏洞是一个涵盖越界读写、缓冲区溢出、释放后�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190

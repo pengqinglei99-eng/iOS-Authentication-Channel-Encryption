@@ -418,4 +418,4 @@ iOS 越狱漏洞的发展史就是一部 iOS 安全架构的演进史。从早�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190

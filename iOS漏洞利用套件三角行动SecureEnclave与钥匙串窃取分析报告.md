@@ -494,4 +494,4 @@ Operation Triangulation 展示了现代 iOS Exploit Kit 的高度复杂性：零
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190

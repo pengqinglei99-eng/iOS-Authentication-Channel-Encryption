@@ -499,4 +499,4 @@ Apple 会向其判断可能遭受雇佣型间谍软件攻击的用户发送威�
 
 ---
 
-咨询ios系统请咨询 telegram：@pengqing666
+咨询ios系统请咨询 telegram：https://t.me/one00190
